@@ -1,0 +1,75 @@
+[resistance]
+    fire=30
+    arcane=50
+    blade=50
+    impact=200
+    pierce=30
+    cold=0
+[/resistance]
+cold=anti fly missle and blaster
+impact=torpedo
+pierce=karabin
+fire=bomb and rocket and missle anti tank
+szturmowe
+[resistance]
+    fire=0
+    arcane=100
+    blade=100
+    impact=0
+    pierce=100
+    cold=200
+[/resistance]
+wielozadaniowe
+[resistance]
+    fire=0
+    arcane=100
+    blade=100
+    impact=0
+    pierce=100
+    cold=150
+[/resistance]
+przewwagi powietrzenej
+[resistance]
+    fire=0
+    arcane=100
+    blade=100
+    impact=0
+    pierce=100
+    cold=125
+[/resistance]
+statek
+[resistance]
+    fire=150
+    arcane=100
+    blade=100
+    impact=200
+    pierce=100
+    cold=0
+[/resistance]
+h wing itpe
+[resistance]
+    fire=0
+    arcane=100
+    blade=100
+    impact=200
+    pierce=120
+    cold=150
+[/resistance]
+krążownik
+[resistance]
+    fire=200
+    arcane=100
+    blade=100
+    impact=0
+    pierce=50
+    cold=150
+[/resistance]
+baza wojskowa
+[resistance]
+    fire=200
+    arcane=100
+    blade=100
+    impact=0
+    pierce=100
+    cold=0
+[/resistance]
