@@ -73,3 +73,21 @@ baza wojskowa
     pierce=100
     cold=0
 [/resistance]
+1 p sztu
+2 p space figter
+3 p wielozadaniowe
+4 p przewwagi
+5 p statki
+missle=anti figthter damege
+wielozadaniowe=100
+przewwagi=150
+szturmowe=25
+Tie
+bomber=torpedo bomb blaster
+defender=blaster bomb
+advencet=blaster
+fighter=blaster
+interceptor=blaster
+transporter=blaster
+decimator=flamebomb blaster
+stricker=blaster
